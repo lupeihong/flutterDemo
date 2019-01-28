@@ -1,0 +1,1 @@
+../../../../Flutter/.symlinks/url_launcher/ios/Classes/UrlLauncherPlugin.h

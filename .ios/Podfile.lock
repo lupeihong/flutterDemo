@@ -1,0 +1,36 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - shared_preferences
+    - url_launcher
+  - shared_preferences (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `../.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `../.ios/Flutter/FlutterPluginRegistrant`)
+  - shared_preferences (from `../.ios/Flutter/.symlinks/shared_preferences/ios`)
+  - url_launcher (from `../.ios/Flutter/.symlinks/url_launcher/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "../.ios/Flutter/FlutterPluginRegistrant"
+  shared_preferences:
+    :path: "../.ios/Flutter/.symlinks/shared_preferences/ios"
+  url_launcher:
+    :path: "../.ios/Flutter/.symlinks/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  FlutterPluginRegistrant: fcd05afd1083c840c2216d969832a205889e9981
+  shared_preferences: 5a1d487c427ee18fcd3ea1f2a131569481834b53
+  url_launcher: 92b89c1029a0373879933c21642958c874539095
+
+PODFILE CHECKSUM: 72e1e8175dfc89701dce64d331963d9d73fd85e9
+
+COCOAPODS: 1.5.3
